@@ -1,5 +1,5 @@
 - Nome: Aelson Carvalho
-- Estudante de python e java
+- Estudante de python
 
 <!---
 AelsonCarvalhoFernandes/AelsonCarvalhoFernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
