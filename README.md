@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aelson-carvalho-fernandes-13514a24b/)
 
 <div style="display: flex;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AelsonCarvalhoFernandes&show_icons=true&theme=radical">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AelsonCarvalhoFernandes&layout=compact">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=AelsonCarvalhoFernandes&show_icons=true&theme=radical">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AelsonCarvalhoFernandes&layout=compact">
 </div>
   
 ### Tecnologias:
